@@ -6,4 +6,4 @@ So far, I have analyzed the following datasets
 |---------|---------|---------|
 | Human | DLPFC | STexampleData |
 | Mouse | Hippocampus | STexampleData |
-* link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData) 
+\\* link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData) 
