@@ -7,4 +7,6 @@ So far, I have analyzed the following datasets
 | 10x Visium (V1) | Human | DLPFC | STexampleData |
 | Slide-Seq V2 | Mouse | Hippocampus | STexampleData |
 
-\* link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData) 
+\* link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData)\
+\
+I will soon analyze **Stereo-seq**, **Visium HD** and **Xenium** datasets. Stay tuned!
