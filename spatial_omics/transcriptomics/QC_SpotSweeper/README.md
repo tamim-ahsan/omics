@@ -13,4 +13,4 @@ link to [STOmicsDB](https://db.cngb.org/stomics/)\
 \
 I will soon analyze **Visium HD** and **Xenium** datasets. Stay tuned!\
 \
-Read my blogpost on SpotSweeper ![here](https://nonlinear-thoughts.netlify.app/posts/srt-qc-spotsweeper/)
+Read my blogpost on SpotSweeper [here](https://nonlinear-thoughts.netlify.app/posts/srt-qc-spotsweeper/)
