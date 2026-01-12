@@ -6,7 +6,11 @@ So far, I have analyzed the following datasets
 |---------|---------|---------|---------|
 | 10x Visium (V1) | Human | DLPFC | STexampleData |
 | Slide-Seq V2 | Mouse | Hippocampus | STexampleData |
+| Stereo-seq | Human | PFC | STOmicsDB |
 
-\* link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData)\
+link to [STexmpleData bioconductor package](https://doi.org/10.18129/B9.bioc.STexampleData)\
+link to [STOmicsDB](https://db.cngb.org/stomics/)\
 \
-I will soon analyze **Stereo-seq**, **Visium HD** and **Xenium** datasets. Stay tuned!
+I will soon analyze **Visium HD** and **Xenium** datasets. Stay tuned!\
+\
+Read my blogpost on SpotSweeper ![here](https://nonlinear-thoughts.netlify.app/posts/srt-qc-spotsweeper/)
